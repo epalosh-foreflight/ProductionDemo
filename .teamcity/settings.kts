@@ -32,8 +32,8 @@ project {
 }
 
 object Mobile_Playgrounds_Intern_ProductionDemo_Build : BuildType({
-    id("Build")
-    name = "Build"
+    id("Build1")
+    name = "Build1"
 
     vcs {
         root(DslContext.settingsRoot)
